@@ -1,0 +1,13 @@
+form {
+    text-align: left;
+    margin-right: 90%;
+}
+input {
+    width: 200px;
+}
+textarea {
+    width: 250px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}

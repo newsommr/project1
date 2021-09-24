@@ -1,0 +1,15 @@
+button{
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: rgb(36, 34, 34);
+    border-style: solid;
+    border-radius: 15px;
+    background: #fae07b;
+}
+
+img {
+    width: 30%;
+    float:left;
+}
