@@ -1,8 +1,8 @@
 img {
-    width: 30%;
+    width: 300px;
     float:left;
-    margin-right: 5%;
     border: black;
+    margin-right: 50px;
     border-style: solid;
     border-radius: 4px;
     border-width: 3px;
