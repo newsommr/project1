@@ -16,7 +16,7 @@ nav {
     font-size: 20px;
     padding: 6px;
 }
-#nav {
+.nav {
     color: black;
     text-decoration: none;
     padding-right: 10px;
