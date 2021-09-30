@@ -20,3 +20,18 @@ footer {
     text-align: center;
     font-size: small;
 }
+
+figcaption {
+    text-align: left;
+}
+figure {
+    left: 50%;
+    right: 50%;
+    max-width: 50%;
+    margin: 4%;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
