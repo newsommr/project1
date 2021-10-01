@@ -1,13 +1,15 @@
-p {
-}
 img {
-    max-width: 60%;
+    max-width: 350px;
     border: black;
     border-style: solid;
     border-width: 3px;
 }
 a {
     color: black;
+}
+
+p {
+    margin-left: 105px;
 }
 div {
     display: flex;
@@ -16,4 +18,14 @@ div {
 }
 figcaption {
     margin-right: 34%;
+}
+
+@media only screen and (max-width: 600px) {
+    div {
+        flex-direction: column;
+        margin: 0px;
+    }
+    p {
+        margin-left: 0px;
+    }
 }

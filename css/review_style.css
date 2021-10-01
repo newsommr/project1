@@ -37,3 +37,10 @@ div {
     display: flex;
     flex-direction: row;
 }
+
+@media only screen and (max-width: 600px) {
+    div {
+        flex-direction: column;
+        margin: 0px;
+    }
+}

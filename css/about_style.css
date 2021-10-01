@@ -39,3 +39,10 @@ figure {
     margin: 4%;
     margin-top: 0px;
 }
+
+@media only screen and (max-width: 600px) {
+    div {
+        flex-direction: column;
+        margin: 0px;
+    }
+}
