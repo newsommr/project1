@@ -1,14 +1,19 @@
 p {
-    font-weight: bold;
-}
-li {
-    font-weight: bold;
-    font-size: large;
 }
 img {
-    max-width: 40%;
-    margin-left: 30%;
+    max-width: 60%;
+    border: black;
+    border-style: solid;
+    border-width: 3px;
 }
 a {
     color: black;
+}
+div {
+    display: flex;
+    flex-direction: row;
+    margin-left: 70px;
+}
+figcaption {
+    margin-right: 34%;
 }
